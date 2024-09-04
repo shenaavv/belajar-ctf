@@ -1,0 +1,2 @@
+curl -I HEAD -i http://mercury.picoctf.net:15931/index.php?
+
